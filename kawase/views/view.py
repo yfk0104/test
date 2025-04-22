@@ -1,3 +1,4 @@
+#表示用コード
 from PySide6.QtWidgets import QMainWindow, QMessageBox
 from PySide6.QtCore import Slot
 from models.model import Model
