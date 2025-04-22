@@ -1,3 +1,4 @@
+# 為替を取得するメインプログラム
 import sys
 from PySide6.QtWidgets import QApplication
 from models.model import Model
